@@ -6,5 +6,5 @@ import (
 )
 
 func main(){
-	routes.RegisterRoutes()
+	routes.RegisterRoutes();
 }
